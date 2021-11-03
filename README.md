@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Udj13
-- 👀 I’m interested in python, swift, flutter, arduino, unity3d, godot
--       (+ in real life gps/glonass tracking, tachographs ets.)
+- 👀 I’m interested in python, swift, flutter, arduino, unity3d, godot (+ in real life gps/glonass tracking, tachographs ets.)
 - 🌱 I’m currently learning - ML
 - 💞️ 
 - 📫 shlyagin@gmail.com
