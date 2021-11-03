@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Udj13
-- 👀 I’m interested in python, swift, unity3d 
-      (+ in real life gps/glonass tracking, tachographs ets.)
-- 🌱 I’m currently learning - ML 
+- 👀 I’m interested in python, swift, flutter, arduino, unity3d, godot
+-       (+ in real life gps/glonass tracking, tachographs ets.)
+- 🌱 I’m currently learning - ML
 - 💞️ 
-- 📫 
+- 📫 shlyagin@gmail.com
 
 <!---
 Udj13/Udj13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
