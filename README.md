@@ -3,8 +3,14 @@
 - 🌱 I’m currently learning - ML
 - 💞️ 
 - 📫 shlyagin@gmail.com
+- https://www.linkedin.com/in/shlyagin/
+- https://www.instagram.com/shlyagin/
+- https://www.facebook.com/shlyagin/
+ 
+
 
 <!---
 Udj13/Udj13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
